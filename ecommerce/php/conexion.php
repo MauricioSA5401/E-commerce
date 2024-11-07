@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
-$db = 'ecommerce';
-$user = 'root';
-$password = '';
+$host = 'localhost'; //
+$db = 'ecommerce';//
+$user = 'root';//
+$password = '';//
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $password);
