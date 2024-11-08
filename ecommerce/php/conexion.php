@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost'; // Nombre del host
-$db = 'ecommerce';//
+$db = 'ecommerce';//Nombre de la base de datos
 $user = 'root';//
 $password = '';//
 
