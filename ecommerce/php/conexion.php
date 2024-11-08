@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost'; // Nombre del host
 $db = 'ecommerce';//Nombre de la base de datos
-$user = 'root';//
+$user = 'root';// nombre del admin
 $password = '';//
 
 try {
