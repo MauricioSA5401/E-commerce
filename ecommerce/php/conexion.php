@@ -2,7 +2,7 @@
 $host = 'localhost'; // Nombre del host
 $db = 'ecommerce';//Nombre de la base de datos
 $user = 'root';// nombre del admin
-$password = '';//
+$password = '';// contraseña
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $password);
