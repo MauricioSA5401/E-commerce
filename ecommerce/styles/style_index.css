@@ -17,7 +17,7 @@ h1 {
 /* Botón para agregar productos */
 .btn-agregar {
     display: inline-block;
-    margin: 16px;
+    margin: 15px;
     padding: 10px 20px;
     background-color: #28a745;
     color: #fff;
